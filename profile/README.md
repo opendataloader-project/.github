@@ -1,15 +1,27 @@
-# Hancom Open Data Loader
+# Welcome to the Hancom Open Data Loader Project! ✨
 
-Speed, Precision and Security — Built for AI —
+Hancom Open Data Loader is an AI-powered open-source SDK for fast and accurate extraction of data from various documents.
+We want to create an environment where developers can easily build applications for document data analysis, automation, and information retrieval.
 
-## Now Open Source
+<br>
 
-Fully open-source and developer-friendly. Modify, extend, and integrate freely — with full transparency and zero cost. The future of data loading starts with community-powered innovation.
+## 🚀 Why Hancom Open Data Loader?
 
-## Speed & Precision
+- **Powerful Data Extraction**: Accurately recognizes and extracts diverse data from PDF documents, including complex tables, text, and images.
+- **AI-Powered**: Utilizes a combination of traditional rule-based methods and powerful AI models to overcome the limitations of existing models.
+- **Highly Flexible**: Provides a flexible architecture that can be easily integrated with various AI models and libraries.
+- **Security** : Process your documents with the complete security of local execution. Your data stays on your machine, always. Build powerful, private AI-driven document workflows with peace of mind.
 
-Experience the power of a high-performance document parsing engine. Our dataloader combines rule-based speed with structured extraction accuracy, delivering results you can trust in record time.
+<br>
 
-## Security
+## 🤝 Get Involved!
 
-Process your documents with the complete security of local execution. Your data stays on your machine, always. Build powerful, private AI-driven document workflows with peace of mind.
+We want to build this project together with the developer community. 
+The Open PDF Data Loader can become even more powerful with your contributions and feedback.
+
+<br>
+
+## 🧡 About Hancom
+
+Hancom Inc. is a global IT company that provides innovative solutions based on decades of accumulated document processing technology. 
+We actively participate in the open-source ecosystem to create a world where everyone can enjoy a better life through technology. 
