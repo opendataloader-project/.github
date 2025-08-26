@@ -1,4 +1,4 @@
-# Welcome to the Hancom Open Data Loader Project! ✨
+# Welcome to the Open Data Loader Project! ✨
 
 Hancom Open Data Loader is an AI-powered open-source SDK for fast and accurate extraction of data from various documents.
 We want to create an environment where developers can easily build applications for document data analysis, automation, and information retrieval.
