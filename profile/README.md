@@ -1,11 +1,11 @@
-# Welcome to the OpenDataLoader Project! ✨
+# Welcome to the OpenDataloader Project! ✨
 
-Hancom Open Data Loader is an AI-powered open-source SDK for fast and accurate extraction of data from various documents.
+OpenDataloader Project is an AI-powered open-source SDK for fast and accurate extraction of data from various documents.
 We want to create an environment where developers can easily build applications for document data analysis, automation, and information retrieval.
 
 <br>
 
-## 🚀 Why OpenDataLoader Project?
+## 🚀 Why OpenDataloader Project?
 
 - **Powerful Data Extraction**: Accurately recognizes and extracts diverse data from PDF documents, including complex tables, text, and images.
 - **AI-Powered**: Utilizes a combination of traditional rule-based methods and powerful AI models to overcome the limitations of existing models.
