@@ -17,7 +17,7 @@ We want to create an environment where developers can easily build applications 
 ## 🤝 Get Involved!
 
 We want to build this project together with the developer community. 
-The Open PDF Data Loader can become even more powerful with your contributions and feedback.
+OpenDataLoader can become even more powerful with your contributions and feedback.
 
 <br>
 
