@@ -21,7 +21,6 @@ OpenDataLoader can become even more powerful with your contributions and feedbac
 
 <br>
 
-## 🧡 About Hancom
+## Hancom ❤️ Open Source
 
-Hancom Inc. is a global IT company that provides innovative solutions based on decades of accumulated document processing technology. 
-We actively participate in the open-source ecosystem to create a world where everyone can enjoy a better life through technology. 
+The project was started by the OpenDataLoader team at [Hancom Inc.](https://www.hancom.com/?utm_source=github&utm_medium=readme&utm_campaign=opendataloader-project).
