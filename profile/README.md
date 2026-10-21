@@ -23,4 +23,4 @@ OpenDataLoader can become even more powerful with your contributions and feedbac
 
 ## Hancom ❤️ Open Source
 
-The project was started by the OpenDataLoader team at [Hancom Inc.](https://www.hancom.com/?utm_source=github&utm_medium=readme&utm_campaign=opendataloader-project).
+The project was started by the OpenDataLoader team at [Hancom Inc.](https://www.hancom.com/?utm_source=github&utm_medium=readme&utm_campaign=opendataloader-project)
